@@ -91,6 +91,7 @@ nav a{
 	text-align:center;
 	font-size:1.2 rem;
 	font-weight: 600px;
+	text-decoration: none; 
 	
 	/* set the font color to #222 (--dk-gray) */
 	/* center align the text */
