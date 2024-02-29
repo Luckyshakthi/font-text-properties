@@ -118,8 +118,7 @@ section{
 }
 
 p{
-	max-width: 55 ch;
-	margin:0 auto;
+	max-width: 55ch;
 	text-indent:2rem;
 	margin: 0 auto;
 	padding:0.5rem;
@@ -134,7 +133,7 @@ a:hover{
 }
 
 dl, ol, main ul{
-	/* limit the width of these lists to 55 characters */
+	max-width: 55ch;
 	margin: 1rem auto;
 }
 
