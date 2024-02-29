@@ -120,7 +120,8 @@ section{
 p{
 	max-width: 55 ch;
 	margin:0 auto;
-	text-indent:2 rem;
+	text-indent:2rem;
+	margin: 0 auto;
 	padding:0.5rem;
 }
 
