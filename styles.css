@@ -49,6 +49,10 @@ header{
 }
 
 h1, h2, h3{
+	text-align: center;
+	
+	text:lowercase;
+
 	/* center align the text */
 	/* use a web font here (instructions on page) */
 	/* make the heading text all small caps style */
