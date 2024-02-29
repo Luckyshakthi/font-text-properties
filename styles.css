@@ -83,10 +83,11 @@ nav ul{
 
 nav a{
 	/* make these display as block level elements */
+	display: block;
 	margin: 1rem auto;
 	padding: 1rem;
 	background-color: var(--tiffany);
-	display: block;
+	
 	/* set the font color to #222 (--dk-gray) */
 	/* center align the text */
 	/* remove the underline */
