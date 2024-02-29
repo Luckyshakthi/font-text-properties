@@ -90,7 +90,7 @@ nav a{
 	color:var(--dk-gray);
 	text-align:center;
 	font-size:1.2 rem;
-	font-weight: 600px;
+	font-weight:600; 
 	text-decoration: none; 
 	
 	/* set the font color to #222 (--dk-gray) */
