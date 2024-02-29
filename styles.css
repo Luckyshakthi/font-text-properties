@@ -51,7 +51,7 @@ header{
 h1, h2, h3{
 	text-align: center;
 	font-family: var(--heading-fonts);
-	text:lowercase;
+	font-variant: small-caps;
 
 	/* center align the text */
 	/* use a web font here (instructions on page) */
